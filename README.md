@@ -32,9 +32,9 @@
    pip install bcrypt tkcalendar
    ```
 
-3. Запустіть головний файл:
+3. Запустіть файл запуску:
    ```bash
-   python gym.py
+   python login_window.py
    ```
 
 ## Структура проєкту
