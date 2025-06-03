@@ -23,7 +23,7 @@
 ## Установка
 1. Клонуйте репозиторій або розпакуйте архів:
    ```bash
-   git clone [https://github.com/your-username/sportclub-admin.git](https://github.com/alexxsp15/sportclub-system)
+   git clone https://github.com/alexxsp15/sportclub-system
    cd sportclub-admin
    ```
 
